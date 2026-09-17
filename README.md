@@ -174,4 +174,4 @@ lib/anvil.js        chain config, wallet, reads and writes
 
 ## License
 
-MIT
+@Benny_Mozart
